@@ -7,7 +7,7 @@ Software Developer
 * 🌍  I'm based in Izmit,Kocaeli
 * 🖥️  See my portfolio at [talhaozer.com.tr](https://talhaozer.com.tr)
 * ✉️  You can contact me at [talhaozerr41@gmail.com](mailto:talhaozerr41@gmail.com)
-* 🚀  I'm currently working on [Genbil Software](https://genbil.com/)
+* 🚀  I'm currently working on [Bimser](https://bimser.com/)
 
 ### Skills
 
